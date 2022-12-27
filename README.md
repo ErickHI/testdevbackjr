@@ -5,7 +5,7 @@ Prueba: **DESARROLLADOR JR**
 
 Deadline: **1 día**
 
-Nombre: 
+Nombre: Erick Hernández Islas
 
 ------
 ## Clona y crea tu repositorio para la evaluación ##
@@ -43,7 +43,7 @@ Para esta prueba será necesario agregar (al directorio **Prueba_2**) las senten
 	* Actualizar el dato Sueldo en un 10 porciento a los empleados que tienen fechas entre el año 2000 y 2001 **_(5 puntos)_**
 	* Realiza una consulta para traer el nombre de usuario y fecha de ingreso de los usuarios que gananen mas de 10000 y su apellido comience con 
 	T ordernado del mas reciente al mas antiguo **_(10 puntos)_**
-	* Realiza una consulta donde agrupes a los empleados por sueldo, un grupo con los que ganan menos de 1200 y uno mayor o igual a 1200, cuantos hay en cada grupo? **_(10 puntos)_**
+	* Realiza una consulta donde agrupes a los empleados por sueldo, un grupo con los que ganan menos de 12000 y uno mayor o igual a 1200, cuantos hay en cada grupo? **_(10 puntos)_**
 
 ------
 

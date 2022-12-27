@@ -1,0 +1,16 @@
+body {
+    height: 100vh;
+}
+
+footer {
+    background-color: #EEEEEE;
+    display: flex;
+    /* margin-bottom: 0; */
+    justify-content: center;
+    padding: .5em;
+}
+
+    footer div {
+        font-size: 1.1em;
+        margin-left: .5em;
+    }
